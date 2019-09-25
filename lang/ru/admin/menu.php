@@ -1,4 +1,4 @@
 <?
-$MESS["ALTASIB_PAGESPEED_CONTROL"] = "Îïòèìèçàöèÿ ñàéòà";
-$MESS["ALTASIB_PAGESPEED_PROCESS"] = "Îïòèìèçàöèÿ ñàéòà";
-$MESS["ALTASIB_PAGESPEED_PROCESS_ALT"] = "Ñòðàíèöà íàñòðîåê";
+$MESS["ALTASIB_PAGESPEED_CONTROL"] = "ÐžÐ¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["ALTASIB_PAGESPEED_PROCESS"] = "ÐžÐ¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["ALTASIB_PAGESPEED_PROCESS_ALT"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº";

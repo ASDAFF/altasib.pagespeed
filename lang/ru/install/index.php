@@ -1,10 +1,10 @@
 <?
-$MESS["ALTASIB_PAGESPEED_REG_MODULE_NAME"] = "Îïòèìèçàöèÿ ñàéòà";
-$MESS["ALTASIB_PAGESPEED_REG_MODULE_DESCRIPTION"] = "Ìîäóëü ïîçâîëÿåò îïòèìèçèðîâàòü çàãðóçêó êîíòåíòà íà ñòðàíèöå, ïîâûøàÿ ñàéò â ðåéòèíãå google.";
-$MESS["ALTASIB_PAGESPEED_REG_INSTALL_TITLE"] = "Óñòàíîâêà ìîäóëÿ: Îïòèìèçàöèÿ ñàéòà";
-$MESS["ALTASIB_PAGESPEED_REG_UNINSTALL_TITLE"] = "Óäàëåíèå ìîäóëÿ:Îïòèìèçàöèÿ ñàéòà";
-$MESS["FORM_LABEL_RU"] = "Îïòèìèçàöèÿ ñàéòà";
-$MESS["FORM_LABEL_USE_RU"] = "Èñïîëüçîâàòü îïòèìèçàöèþ ñàéòà";
+$MESS["ALTASIB_PAGESPEED_REG_MODULE_NAME"] = "ÐžÐ¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["ALTASIB_PAGESPEED_REG_MODULE_DESCRIPTION"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð¾Ð¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÑƒ ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚Ð° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ, Ð¿Ð¾Ð²Ñ‹ÑˆÐ°Ñ ÑÐ°Ð¹Ñ‚ Ð² Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ðµ google.";
+$MESS["ALTASIB_PAGESPEED_REG_INSTALL_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ: ÐžÐ¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["ALTASIB_PAGESPEED_REG_UNINSTALL_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ:ÐžÐ¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["FORM_LABEL_RU"] = "ÐžÐ¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["FORM_LABEL_USE_RU"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¾Ð¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸ÑŽ ÑÐ°Ð¹Ñ‚Ð°";
 $MESS["FORM_LABEL_EN"] = "Optimize site";
 $MESS["FORM_LABEL_USE_EN"] = "Use optimize site";
 ?>

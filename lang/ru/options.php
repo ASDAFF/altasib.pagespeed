@@ -1,2 +1,2 @@
 <?php
-$MESS["ALTASIB_PAGESPEED_USE_PAGESPEED"] = "Èñïîëüçîâàòü îïòèìèçàöèþ ñàéòà";
+$MESS["ALTASIB_PAGESPEED_USE_PAGESPEED"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¾Ð¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸ÑŽ ÑÐ°Ð¹Ñ‚Ð°";
